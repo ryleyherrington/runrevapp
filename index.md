@@ -1,4 +1,4 @@
-## Welcome to Letter Linker
+## Welcome to RunRev!
 
 If you have any feature requests or issues, please contact me at @ryleyherrington on twitter or email me at my ryleyherrington@yahoo.com.
 
@@ -14,7 +14,7 @@ Here's a quick overview of RunRev(so far):
 | - | - |
 |![Light Mode](/assets/Light.png)|![Dark Mode](/assets/Dark.png)|
 | - | - |
-| Solved | Expanded|
+| Widgets | Month View |
 |![Solved](/assets/Solved.png)|![Expanded](/assets/Expanded.png)|
 {: .tablelines}
 
