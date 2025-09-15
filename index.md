@@ -14,8 +14,8 @@ Here's a quick overview of RunRev(so far):
 | - | - |
 |![Light Mode](/assets/Light.png)|![Dark Mode](/assets/Dark.png)|
 | - | - |
-| Widgets | Month View |
-|![Solved](/assets/Solved.png)|![Expanded](/assets/Expanded.png)|
+| Video Runthrough | Year View |
+|![Video](/assets/RunRev.MP4)|![Expanded](/assets/Expanded.png)|
 {: .tablelines}
 
 <br/>
