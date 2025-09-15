@@ -15,7 +15,7 @@ Here's a quick overview of RunRev(so far):
 |![Light Mode](/assets/Light.png)|![Dark Mode](/assets/Dark.png)|
 | - | - |
 | Video Runthrough | Year View |
-|<video width="300" controls><source src="/assets/RunRev.MP4" type="video/mp4">Your browser does not support the video tag.</video>|![Expanded](/assets/Expanded.png)|
+|<video width="300" controls><source src="/assets/RunRev.mp4" type="video/mp4">Your browser does not support the video tag.</video>|![Expanded](/assets/Expanded.png)|
 {: .tablelines}
 
 <br/>
